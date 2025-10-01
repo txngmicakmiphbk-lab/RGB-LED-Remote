@@ -1,4 +1,4 @@
-## RGB LED Remote
+##[ RGB LED Remote](https://github.com/chayanforyou/RGB-LED-Remote.git)
 A Flutter app which can control RGB LED Strip lights & Bulbs. `(Device must have IR Sensor)`
 
 This app designed for Sylvania RGB remote (24Keys).
